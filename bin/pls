@@ -1,2 +1,8 @@
 #!/bin/python3
 # placeholder
+def main():
+    print("pls")
+
+
+if __name__ == "__main__":
+    main()
